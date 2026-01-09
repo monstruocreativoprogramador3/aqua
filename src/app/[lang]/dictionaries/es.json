@@ -1,0 +1,160 @@
+{
+  "navigation": [
+    {
+      "name": "Sobre nosotros",
+      "link": "about"
+    },
+    {
+      "name": "Cómo trabajamos",
+      "link": "how-we-work"
+    },
+    {
+      "name": "Servicios",
+      "link": "our-services"
+    },
+    {
+      "name": "Nuestros proyectos",
+      "link": "projects"
+    },
+    {
+      "name": "Contacto",
+      "link": "contact"
+    }
+  ],
+  "contact": {
+    "title": "CONTACTO / SOLICITAR UNA COTIZACIÓN",
+    "description": "¿Listo para dar vida a tu proyecto acuático? 📩 Ponte en contacto y recibe una cotización personalizada.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "company": "Empresa / Institución",
+      "phone": "Teléfono",
+      "message": "Mensaje / Detalles del proyecto",
+      "cta": "Enviar solicitud"
+    },
+    "location": "Operamos en toda América"
+  },
+  "hero": {
+    "title": "Soluciones Avanzadas en Ingeniería Acuática",
+    "description": "CONSULTORÍA | DISEÑO | MODELADO 3D | DISTRIBUCIÓN",
+    "button": "Solicita tu Cotización"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "data": [
+      {
+        "title": "Diseño e ingeniería de piscina pública de 1,659 m³: optimización del desempeño hidráulico y criterios de sostenibilidad.",
+        "source": "/Project-1.mp4"
+      },
+      {
+        "title": "Diseño e ingeniería de zona de juegos acuáticos al aire libre: integración de elementos interactivos con enfoque funcional y operación sostenible.",
+        "description": "Des",
+        "source": "/Project-2.mp4"
+      }
+    ]
+  },
+  "about": {
+    "title": "SOBRE NOSOTROS",
+    "text1": "Desde 2004, hemos colaborado con clientes en toda América para materializar ambiciosas visiones acuáticas, combinando ingeniería de precisión con experiencia práctica. Nuestro equipo de especialistas ofrece soluciones técnicas integrales para proyectos acuáticos, respaldadas por certificaciones internacionales reconocidas y más de 20 años de experiencia en el sector.",
+    "text2": "Todos nuestros diseños cumplen con los estándares europeos y estadounidenses, garantizando seguridad, rendimiento y cumplimiento normativo. Trabajamos en diversos sectores, incluyendo hospitalidad, educación, deporte e infraestructura pública, brindando diseño avanzado, modelado 3D y suministro certificado de componentes.",
+    "text3": "",
+    "note": "Nuestra metodología reduce errores, acorta los plazos de construcción y optimiza el rendimiento a largo plazo.",
+    "explore": "Explora nuestros proyectos",
+    "why": {
+      "title": "Por Qué los Profesionales Nos Eligen",
+      "card1": {
+        "title": "Experiencia Comprobada",
+        "description": "Más de 20 años en ingeniería acuática y consultoría."
+      },
+      "card2": {
+        "title": "Certificados y Cumplimiento Normativo",
+        "description": "Los diseños cumplen con estándares internacionales (NSPF, PHTA, FIA)."
+      },
+      "card3": {
+        "title": "Ejecución de Precisión",
+        "description": "El modelado 3D reduce errores y acelera los plazos."
+      }
+    }
+  },
+  "serve": {
+    "title": "Soluciones acuáticas para diversos sectores",
+    "tag": "Socio Técnico de Confianza en Diversos Sectores",
+    "description": "Colaboramos con empresas e instituciones en múltiples industrias, incluyendo:",
+    "industries": [
+      {
+        "title": "Gobiernos Municipales",
+        "description": "Piscinas públicas, sistemas de agua y equipamientos urbanos acuáticos."
+      },
+      {
+        "title": "Grupos Hoteleros",
+        "description": "Piscinas de resorts, spas y elementos decorativos acuáticos."
+      },
+      {
+        "title": "Complejos Recreativos",
+        "description": "Parques acuáticos, centros de fitness y sedes de natación competitiva."
+      },
+      {
+        "title": "Centros Académicos y de Investigación",
+        "description": "Piscinas universitarias e instalaciones de entrenamiento acuático."
+      },
+      {
+        "title": "Proyectos de Tratamiento de Agua",
+        "description": "Agua caliente sanitaria (ACS), ósmosis inversa y sistemas de desalinización."
+      }
+    ]
+  },
+  "howwework": {
+    "title": "CÓMO TRABAJAMOS",
+    "description": "Cada fase está estructurada para minimizar riesgos, optimizar la construcción y garantizar la confiabilidad del sistema a largo plazo.",
+    "steps": [
+      {
+        "title": "Evaluación Técnica Inicial",
+        "description": "Analizamos parámetros clave (hidráulicos, regulatorios, estructurales y funcionales) para definir desde el inicio una solución técnica segura, realista y rentable."
+      },
+      {
+        "title": "Diseño de Ingeniería y Modelado 3D",
+        "description": "Creamos documentación técnica detallada y modelos 3D para mejorar la coordinación, reducir conflictos y facilitar la toma de decisiones tempranas."
+      },
+      {
+        "title": "Suministro de Equipos y Soluciones Técnicas",
+        "description": "Proveemos equipos certificados con altos estándares de eficiencia, durabilidad y compatibilidad."
+      },
+      {
+        "title": "Documentación Técnica Integral",
+        "description": "Entregamos planos listos para construcción, garantizando una instalación fluida y sin ambigüedades."
+      },
+      {
+        "title": "Soporte Técnico Durante la Ejecución",
+        "description": "Brindamos asistencia técnica puntual para apoyar la correcta interpretación del diseño durante momentos clave de la instalación."
+      }
+    ],
+    "ready": {
+      "title": "¿Listo para Iniciar tu Proyecto Acuático?",
+      "description": "Contacta con nuestro equipo hoy para conocer cómo nuestra metodología de ingeniería puede aportar valor a tu proyecto acuático.",
+      "cta": "Inicia tu Proyecto"
+    }
+  },
+  "services": {
+    "title": "NUESTROS SERVICIOS",
+    "card1": {
+      "title": "Diseño Técnico y Modelado 3D",
+      "description": "Desarrollamos planes precisos y listos para construcción usando modelado 3D y cálculos hidráulicos avanzados. Nuestro proceso de diseño minimiza riesgos de ejecución y mejora la coordinación entre todos los involucrados.",
+      "item1": "Validación de diseño con alta precisión",
+      "item2": "Menos errores de construcción y solicitudes de información (RFIs)",
+      "item3": "Mayor coordinación interdisciplinaria"
+    },
+    "card2": {
+      "title": "Selección y Suministro de Equipos",
+      "description": "Seleccionamos y entregamos equipos certificados, de alto rendimiento, adaptados a las necesidades hidráulicas y mecánicas específicas de cada proyecto. Todos los componentes están verificados para cumplir normativas, ser duraderos y asegurar una integración eficiente.",
+      "item1": "Equipos fiables y energéticamente eficientes",
+      "item2": "Certificados según estándares regionales e internacionales",
+      "item3": "Totalmente alineados con los objetivos de rendimiento del sistema"
+    },
+    "button": "Contáctanos para más información",
+    "cta": {
+      "title": "¿Listo para dar vida a tu proyecto acuático?",
+      "description": "Obtén apoyo profesional en ingeniería adaptado a las necesidades específicas de tu proyecto. Nuestro equipo está listo para ayudarte a lograr la solución técnica óptima.",
+      "button": "Solicitar cotización"
+    }
+  }
+}

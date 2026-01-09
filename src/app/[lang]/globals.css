@@ -1,0 +1,48 @@
+@import 'tailwindcss';
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #fffffa;
+    --foreground: #0a0a0a;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), Helvetica, sans-serif;
+}
+
+.hero-observer {
+  position: absolute;
+  top: 50vh;
+  height: 10px;
+  width: 10px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.section1-observer,
+.section2-observer,
+.section3-observer {
+  position: sticky;
+  top: 50vh;
+  height: 10px;
+  width: 10px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.header-title {
+  @apply text-3xl lg:text-5xl font-bold mb-8;
+}

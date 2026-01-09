@@ -1,0 +1,159 @@
+{
+  "navigation": [
+    {
+      "name": "About Us",
+      "link": "about"
+    },
+    {
+      "name": "How We Work",
+      "link": "how-we-work"
+    },
+    {
+      "name": "Services",
+      "link": "our-services"
+    },
+    {
+      "name": "Projects",
+      "link": "projects"
+    },
+    {
+      "name": "Contact Us",
+      "link": "contact"
+    }
+  ],
+  "hero": {
+    "title": "Advanced Solutions in Aquatic Engineering",
+    "description": "Consulting | Design | 3D Modeling | Distribution",
+    "button": "Request Your Quote"
+  },
+  "about": {
+    "title": "ABOUT US",
+    "text1": "Since 2004, we've partnered with clients across the Americas to bring ambitious aquatic visions to life, combining precision engineering with real-world experience.",
+    "text2": "Our team of specialists offers comprehensive technical solutions for aquatic projects, backed by internationally recognized certifications and 20+ years of field expertise. All our designs comply with both European and American standards to ensure safety, performance, and regulatory alignment.",
+    "text3": "We work across various sectors, including hospitality, education, sports, and public infrastructure, delivering advanced design, 3D modeling, and certified component supply. Our methodology reduces errors, shortens construction timelines, and optimizes long-term performance.",
+    "note": "Our methodology reduces errors, shortens construction timelines, and optimizes long-term performance.",
+    "explore": "Explore Our Projects",
+    "why": {
+      "title": "Why Professionals Choose Us",
+      "card1": {
+        "title": "Proven Expertise",
+        "description": "20+ years in aquatic engineering and consultancy"
+      },
+      "card2": {
+        "title": "Certified & Compliant",
+        "description": "Designs meet global standards (NSPF, PHTA, FIA)"
+      },
+      "card3": {
+        "title": "Precision Execution",
+        "description": "3D modeling reduces errors and accelerates timelines"
+      }
+    }
+  },
+  "serve": {
+    "title": "WHO WE SERVE",
+    "tag": "Trusted Engineering Partner Across Industries",
+    "description": "We collaborate with companies and institutions across various industries, including:",
+    "industries": [
+      {
+        "title": "Municipal Governments",
+        "description": "Public pools, water systems, and urban water play features."
+      },
+      {
+        "title": "Hospitality Groups",
+        "description": "Resort pools, spas, and decorative water features"
+      },
+      {
+        "title": "Recreational Complexes",
+        "description": "Water parks, fitness centers, and competitive swim venues"
+      },
+      {
+        "title": "Academic & Research Centers",
+        "description": "University pools and aquatic training facilities"
+      },
+      {
+        "title": "Water Treatment Projects",
+        "description": "Domestic hot water (DHW), reverse osmosis, and desalination systems"
+      }
+    ]
+  },
+  "contact": {
+    "title": "CONTACT / REQUEST A QUOTE",
+    "description": "Ready to bring your aquatic project to life? 📩 Get in touch and receive a tailored quote.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company / Institution",
+      "phone": "Phone",
+      "message": "Message / Project Details",
+      "cta": "Send Request"
+    },
+    "location": "We operate across the Americas."
+  },
+  "projects": {
+    "title": "Projects",
+    "data": [
+      {
+        "title": "Design and engineering of a 1659 m³ public swimming pool: optimized hydraulic performance and sustainability.",
+        "source": "/Project-1.mp4"
+      },
+      {
+        "title": "Design and engineering of a public outdoor splash zone: interactive water features with user-centered functionality and sustainable operation.",
+        "source": "/Project-2.mp4"
+      }
+    ]
+  },
+  "howwework": {
+    "title": "HOW WE WORK",
+    "description": "Every phase is structured to minimize risks, streamline construction, and optimize long-term system reliability.",
+    "steps": [
+      {
+        "title": "Initial Technical Assessment.",
+        "description": "We analyze critical project parameters (hydraulic, regulatory, structural, and functional) to define a realistic, safe, and budget-friendly technical solution from the start."
+      },
+      {
+        "title": "Engineering Design & 3D Modeling.",
+        "description": "We create detailed technical documentation and 3D models to improve coordination, reduce conflicts, and enhance early decision-making."
+      },
+      {
+        "title": "Equipment Supply & Technical Solutions",
+        "description": "We provide certified equipment that meets high standards for efficiency, durability, and compatibility."
+      },
+      {
+        "title": "Comprehensive Technical Documentation",
+        "description": "We provide complete construction-ready plans, ensuring smooth installation and eliminating ambiguity."
+      },
+      {
+        "title": "Technical Support During Execution",
+        "description": "We provide technical assistance at key moments of the installation process to ensure the correct interpretation of the design."
+      }
+    ],
+    "ready": {
+      "title": "Ready to Start Your Aquatic Project?",
+      "description": "Contact our team today to discuss how our engineering methodology can bring value to your aquatic project.",
+      "cta": "Begin Your Project"
+    }
+  },
+  "services": {
+    "title": "OUR SERVICES",
+    "card1": {
+      "title": "Technical Design & 3D Modeling",
+      "description": "We develop precise, build-ready plans using 3D modeling and advanced hydraulic calculations. Our design process minimizes execution risks and improves coordination across all stakeholders.",
+      "item1": "High-accuracy design validation",
+      "item2": "Fewer construction errors and RFIs",
+      "item3": "Improved coordination across disciplines"
+    },
+    "card2": {
+      "title": "Equipment Selection & Supply",
+      "description": "We select and deliver certified, high-performance equipment tailored to the specific hydraulic and mechanical needs of each project. All components are verified for code compliance, durability, and seamless integration with the engineered system.",
+      "item1": "Reliable, energy-efficient equipment",
+      "item2": "Certified to meet regional and international standards",
+      "item3": "Fully aligned with system specifications and performance goals"
+    },
+    "button": "Contact us to learn more",
+    "cta": {
+      "title": "Ready to bring your aquatic project to life?",
+      "description": "Get professional engineering support tailored to your specific project needs. Our team is ready to help you achieve the optimal technical solution.",
+      "button": "Request Quote"
+    }
+  }
+}
